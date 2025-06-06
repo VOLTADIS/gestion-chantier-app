@@ -1,3 +1,1 @@
-export default function Home() {
-  return <h1>Bienvenue sur l'app Gestion Chantier</h1>;
-}
+return <h1>Bienvenue dans mon app chantier 🚧</h1>;
